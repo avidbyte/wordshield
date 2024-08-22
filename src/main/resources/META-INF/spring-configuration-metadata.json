@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "sensitive.word",
+      "type": "io.github.avidbyte.SensitiveWordProperties",
+      "sourceType": "io.github.avidbyte.SensitiveWordProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sensitive.word.source",
+      "type": "java.lang.String",
+      "sourceType": "io.github.avidbyte.SensitiveWordProperties"
+    },
+    {
+      "name": "sensitive.word.filePath",
+      "type": "java.lang.String",
+      "sourceType": "io.github.avidbyte.SensitiveWordProperties"
+    },
+    {
+      "name": "sensitive.word.loadDefault",
+      "type": "java.lang.Boolean",
+      "sourceType": "io.github.avidbyte.SensitiveWordProperties"
+    }
+
+  ],
+  "hints": []
+}
