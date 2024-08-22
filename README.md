@@ -1,7 +1,7 @@
-[![构建状态](https://img.shields.io/travis/yourusername/wordshield.svg)](https://travis-ci.org/yourusername/wordshield)
-[![许可证](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.avidbyte/wordshield/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.avidbyte/wordshield)
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-4D7A97)](https://github.com/avidbyte/wordshield/blob/main/LICENSE)
+[![Maven Central](https://img.shields.io/badge/maven--central-1.0.1-blue)](https://mvnrepository.com/artifact/io.github.avidbyte)
+[![Maven Central](https://img.shields.io/badge/PRs--welcome-red)](https://github.com/avidbyte/wordshield/pulls)
 
 # 简介
 WordShield 是一款轻量级且灵活的敏感词过滤库，基于 Spring Boot 构建。它提供了简单易用的 API，用于过滤和管理敏感词汇。
