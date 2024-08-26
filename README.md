@@ -86,7 +86,7 @@ sensitive:
     source: database
 ```
 当前配置 wordshield 不会加载预设的敏感词, 敏感词库完全是空的, 需要使用者自己调用新增敏感词的方法构造敏感词库
-
+通过这四个方法也可以动态地管理敏感词列表
 ```java
 import io.github.avidbyte.wordshield.SensitiveWordFilter;
 
@@ -116,5 +116,6 @@ public class ContentService {
     }
     
 }
+
+
 ```
-通过这四个方法也可以动态地管理敏感词列表
