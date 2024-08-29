@@ -13,6 +13,8 @@ WordShield 是一款轻量级且灵活的敏感词过滤库，基于 Spring Boot
 动态管理：允许动态添加或移除敏感词。
 Spring Boot 集成：自动在应用上下文中注册 SensitiveWordFilter Bean。
 
+本项目敏感词部分来源 https://github.com/konsheng/Sensitive-lexicon 由于不支持通配符处理,处理了一些以*结尾的敏感词
+
 
 # 快速开始
 ## 准备工作
