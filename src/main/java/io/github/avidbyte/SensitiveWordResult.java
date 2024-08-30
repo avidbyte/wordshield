@@ -1,10 +1,12 @@
 package io.github.avidbyte;
 
+import java.io.Serializable;
+
 /**
  * @author Aaron
  * @since 2024-08-14
  */
-public class SensitiveWordResult {
+public class SensitiveWordResult implements Serializable {
 
     private boolean containsSensitiveWord;
     private String filteredText;

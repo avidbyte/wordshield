@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: example
+
+sensitive:
+  word:
+    load-default: true
