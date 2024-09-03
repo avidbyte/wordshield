@@ -5,9 +5,12 @@
 
     <groupId>io.github.avidbyte</groupId>
     <artifactId>wordshield</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>wordshield</name>
     <description>wordshield</description>
+
+    <url>https://github.com/avidbyte/wordshield</url>
 
     <properties>
         <java.version>1.8</java.version>
@@ -15,6 +18,28 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
     </properties>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/avidbyte/netty-websocket-boot-starter</url>
+        <connection>https://github.com/avidbyte/netty-websocket-boot-starter.git</connection>
+        <developerConnection>https://github.com/avidbyte</developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <name>Aaron</name>
+            <email>avidbyte1024@gmail.com</email>
+            <url>https://github.com/avidbyte</url>
+        </developer>
+    </developers>
 
     <dependencies>
 
