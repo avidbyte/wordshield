@@ -1,6 +1,6 @@
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-4D7A97)](https://github.com/avidbyte/wordshield/blob/main/LICENSE)
-[![Maven Central](https://img.shields.io/badge/maven--central-1.0.0-blue)](https://mvnrepository.com/artifact/io.github.avidbyte)
+[![Maven Central](https://img.shields.io/badge/maven--central-1.0.0-blue)](https://mvnrepository.com/artifact/io.github.avidbyte/wordshield/1.0.0)
 [![Maven Central](https://img.shields.io/badge/PRs--welcome-red)](https://github.com/avidbyte/wordshield/pulls)
 
 # 简介
